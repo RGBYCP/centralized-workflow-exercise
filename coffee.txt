@@ -1,0 +1,5 @@
+* grind coffee
+* boil water
+* rinse paper filter with boiling water
+* put coffee grounds in wetted filter
+* pour 94C water over coffee crounds at a constant rate
