@@ -1,0 +1,1 @@
+Yesterday I learned git bisect, a useful command to narrow down and find bugs.
